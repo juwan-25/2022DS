@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="HanoiTower.c">
+    <ClCompile Include="HanoiTower_1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
