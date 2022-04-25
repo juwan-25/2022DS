@@ -21,5 +21,14 @@
     <ClCompile Include="Array01.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Array03.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ArrayAndPointer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ArrayTest.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
