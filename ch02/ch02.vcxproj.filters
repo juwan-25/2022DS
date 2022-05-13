@@ -27,7 +27,10 @@
     <ClCompile Include="ArrayAndPointer.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="ArrayTest.c">
+    <ClCompile Include="staticAllocation.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="dynamicAllocation.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
